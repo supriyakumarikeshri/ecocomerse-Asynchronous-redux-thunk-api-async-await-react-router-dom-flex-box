@@ -30,7 +30,7 @@ const ProducDetail = () => {
     return (
         <div className="product-card">
             {Object.keys(product).length === 0 ? (
-                <div>...Loading</div>
+                <div>...Loading...</div>
             ) : (
 
 
